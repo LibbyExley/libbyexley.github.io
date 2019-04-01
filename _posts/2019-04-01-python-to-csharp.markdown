@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transitioning from Python to C\#"
+title:  "Transitioning from Python to C#"
 date:   2019-04-01 22:00:00 +0000
 categories: general
 ---
