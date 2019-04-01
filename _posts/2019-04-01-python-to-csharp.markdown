@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Transitioning from Python to C#"
+title:  "Transitioning from Python to C\#"
 date:   2019-04-01 22:00:00 +0000
-categories: c#
+categories: c\#
 ---
 I recently starting learning C# alongside my “starter language” of Python. I chose C# as it is a popular, object-oriented, general purpose language that many organisations use. I have been using .NET core which is able to run on multiple platforms, such as my Mac.
 
