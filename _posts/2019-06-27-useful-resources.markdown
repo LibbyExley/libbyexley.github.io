@@ -6,7 +6,7 @@ categories: general
 ---
 There are so many resources online to learn to code and I have used quite a few so far on my programming journey. Below are the resources I have found to be most useful.
 
-__**Treehouse**__
+__Treehouse__
 
 Treehouse is my favourite learning tool by far, all of their courses go into lots of depth and break things down into small steps which are contained within their own short video. As well as the videos treehouse sets you challenges which you can complete in the browser, quizzes to test your theory and it gives you the ability to code along with the tutorial in “workspaces”. 
 
