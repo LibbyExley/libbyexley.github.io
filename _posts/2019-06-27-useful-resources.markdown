@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning to Program"
+title:  "Resources When Learning to Code"
 date:   2019-06-28 19:00:00 +0000
 categories: general
 ---
