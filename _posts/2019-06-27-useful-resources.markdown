@@ -14,17 +14,21 @@ I love the fact that you collect points for completing challenges and courses as
 
 Something frustrating I have found with Treehouse is that when learning another language the course can feel a little slow as the beginner courses (known as tracks) normally assume you are a complete programming novice. A good feature of some courses especially ones which feature multiple languages such as the “Front End Web Development” track is the ability for you to take an assessment and skip certain lessons if you already know and understand the content.
 
+
 __Microsoft .NET Learning Centre__
 
 I found Microsoft’s tutorial very useful when it came to learning OOP as it had a simple to follow written guide taking you through the steps of making your own class and leaning the basics of OOP. It also, like many other learning platforms, has the advantage of being able to run the practise code snippets in the browser. This type of learning is great when you already know the basis of programming but want to learn the syntax for another language.
+
 
 __freeCodeCamp__
 
 FreeCodeCamp mainly teaches web programming languages namely HTML, CSS and JavaScript and it walks you through your chosen curriculum starting out at the basics and going up to completing full projects. It is beginner friendly as it has a split screen layout which enables you to program along with the tutorial and complete challenges in the browser while still being able to see the lesson content. A little thing I enjoy about freeCodeCamp is the messages when you complete a challenge correctly which are usually a cheesy reference or pun.
 
+
 __Stack Overflow__ 
 
 Despite technically being a question and answer site rather than being an educational resource Stack Overflow is extremely useful when learning to code especially when progressing from courses to your own projects. Stack Overflow has been really useful on many occasions for simple things such as forgetting a piece of syntax or advice on a larger project. 
+
 
 __CodeCademy__
 
